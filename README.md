@@ -47,10 +47,10 @@ Inspired by [CTRL](https://huggingface.co/ctrl), we incorporate control codes in
 
 1. Install dependencies for the code released in [this repository](https://github.com/sander-wood/tunesformer):
 ```
-unidecode                    1.3.6
-torch                        1.13.1+cu116
+unidecode                    1.4.0
+torch                        2.14.0
 samplings                    0.1.7
-transformers                 4.18.0
+transformers                 5.16.1
 ```
 
 2. Set the prompt in `prompt.txt` for conditional music generation. 

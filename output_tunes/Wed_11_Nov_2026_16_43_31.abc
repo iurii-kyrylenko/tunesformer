@@ -1,0 +1,36 @@
+X:1
+S:2
+B:9
+E:4
+B:9
+L:1/8
+M:3/4
+K:D
+ de |"D" f2 f2 fe | d2 d2 dc |"G" B4 cd |"D" A4 de | f2 f2 fe | d2 d2 dc |"G" B4 c2 |"D" d4 :: d2 | 
+"G" gf ga bg |"D" ag fg af |"Em" ba gf ed |"A7" cd e2 A2 |"D" fe fg ab |"D" ag fg ab | 
+"Em" ba gf ec |"D" d4 :|
+
+X:2
+S:2
+B:9
+E:4
+B:9
+L:1/8
+M:3/4
+K:D
+ de |"D" f2 afed | B2 de dB |"D" A2 d2 fd |"A" e4 de |"D" f2 af ed |"G" B2 de dB | 
+"D" A2 d2 F2 |"D" D4 :: FG |"G" A2 B3 F |"D" F2 E3 F |"Em" G2 F2 E2 |"D" F4 FG |"G" A2 B3 F | 
+"D" F2 E3 F |"Em" G2 F2 E2 |"D" D4 :|
+
+X:3
+S:2
+B:9
+E:4
+B:9
+L:1/8
+M:3/4
+K:D
+ de |"D" f2 A2 Bc |"G" de d2 B2 |"D" A4 F2 |"D" A4 d2 |"Bm" f3 g f2 |"A" e2 c2 A2 |"D" d3 e dc | 
+"D" d4 :: FA |"G" B3 AGF |"D" F3 E D2 |"Em" E4 F2 |"A7" E4 A2 |"Bm" B3 AGF |"D" F3 E D2 | 
+"A7" E4 D2 |"D" D4 :|
+
